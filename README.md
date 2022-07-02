@@ -11,5 +11,5 @@
 **Challenge description:** 
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 
-**Project documentation [PL] available [here](https://github.com/AleksandraRolka/ML-kaggle-challenge/tree/master/doc).**
+**Project documentation [PL] available [here](https://github.com/AleksandraRolka/ML-kaggle-challenge/blob/master/doc/Dokumentacja.pdf).**
 
